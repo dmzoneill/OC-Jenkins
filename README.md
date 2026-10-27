@@ -1,5 +1,9 @@
 # OC-Jenkins
 
+<p align="center">
+  <img src=".github/logo.png" alt="OC-Jenkins logo" width="128" />
+</p>
+
 A Bash script that installs Jenkins on an Ubuntu server.
 
 ## What it does
